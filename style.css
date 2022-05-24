@@ -491,10 +491,10 @@ footer p {
 
 @media (max-width: 1040px){
   header {
-    padding: 12px 20px;
+    padding: 5px 10px;
   }
   header.sticky{
-    padding: 10px 20px;
+    padding: 5px 10px;
 
   }
   header .navigation {
@@ -555,7 +555,7 @@ transition: .3s ease;
 
 
   section{
-    padding: 80px 20px;
+    padding: 80px 10px;
   }
   .main .content h2 {
     font-size: 25px;
@@ -564,6 +564,9 @@ transition: .3s ease;
   .main .content h3 {
     font-size: 35px;
 
+  }
+  .main .content h2 span{
+    font-size: 40px;
   }
   .section-title {
     font-size: 36px;
@@ -593,7 +596,7 @@ transition: .3s ease;
     margin-top: 40px;
   }
   .contact-form {
-    padding: 35px 40px;
+    padding: 25px 30px;
   }
 
 }
